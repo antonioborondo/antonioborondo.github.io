@@ -1,1 +1,1 @@
-Personal website https://www.antonioborondo.com
+Personal website https://antonioborondo.com
