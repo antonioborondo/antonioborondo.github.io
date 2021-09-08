@@ -1,5 +1,5 @@
 @import url("https://fonts.googleapis.com/css?family=Roboto");
-@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css");
+@import url("https://use.fontawesome.com/releases/v5.15.4/css/all.css");
 
 body
 {
@@ -22,10 +22,10 @@ a
     width: 10em;
 }
 
-.fa
+.fab
 {
-    font-size: 1.75em;
-    padding: 0.3em;
+    font-size: 1.55em;
+    padding: 0.35em;
 }
 
 @media screen and (orientation: landscape)
