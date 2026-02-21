@@ -1,8 +1,7 @@
 @import url("https://fonts.googleapis.com/css?family=Roboto");
 @import url("https://use.fontawesome.com/releases/v6.5.2/css/all.css");
 
-body
-{
+body {
   color: #333333;
   font-family: "Roboto", sans-serif;
   font-size: 4.65vw;
@@ -10,28 +9,23 @@ body
   text-align: center;
 }
 
-a
-{
+@media screen and (orientation: landscape) {
+  body {
+    font-size: 4vh;
+  }
+}
+
+a {
   color: inherit;
 }
 
-.avatar
-{
+.avatar {
   border-radius: 50%;
   height: auto;
   width: 10em;
 }
 
-.fab
-{
+.fab {
   font-size: 1.55em;
   padding: 0.35em;
-}
-
-@media screen and (orientation: landscape)
-{
-  body
-  {
-    font-size: 4vh;
-  }
 }
