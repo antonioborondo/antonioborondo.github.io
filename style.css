@@ -3,35 +3,35 @@
 
 body
 {
-    color: #333333;
-    font-family: "Roboto", sans-serif;
-    font-size: 4.65vw;
-    margin: 2em;
-    text-align: center;
+  color: #333333;
+  font-family: "Roboto", sans-serif;
+  font-size: 4.65vw;
+  margin: 2em;
+  text-align: center;
 }
 
 a
 {
-    color: inherit;
+  color: inherit;
 }
 
 .avatar
 {
-    border-radius: 50%;
-    height: auto;
-    width: 10em;
+  border-radius: 50%;
+  height: auto;
+  width: 10em;
 }
 
 .fab
 {
-    font-size: 1.55em;
-    padding: 0.35em;
+  font-size: 1.55em;
+  padding: 0.35em;
 }
 
 @media screen and (orientation: landscape)
 {
-    body
-    {
-        font-size: 4vh;
-    }
+  body
+  {
+    font-size: 4vh;
+  }
 }
